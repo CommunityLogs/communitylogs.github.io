@@ -35,7 +35,7 @@ You can embed images and gifs directly by dropping them in github editor while y
 ## Creating blog post demo
 
 <video width="100%" height="auto" controls poster="https://img.youtube.com/vi/aW8nFgRwnoA/0.jpg">
-  <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/126524087/222552453-678b503a-f68f-471d-9623-9edb102605a5.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
