@@ -1,4 +1,5 @@
-# Welcome to Community Logs!
+
+**Welcome to Community Logs!**
 
 This place is open to people who want to express themselves with their unique style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
 Any idea can come to life on Community Logs following posting rules.
