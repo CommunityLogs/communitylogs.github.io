@@ -35,4 +35,4 @@ You can embed images and gifs directly by dropping them in github editor while y
 
 https://user-images.githubusercontent.com/126524087/222552453-678b503a-f68f-471d-9623-9edb102605a5.mp4
 
-You can then find your posts at [https://communitylogs.github.io](https://communitylogs.github.io)
+You can then find your posts at [https://communitylogs.github.io](https://communitylogs.github.io).
