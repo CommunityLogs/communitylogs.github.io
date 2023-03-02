@@ -1,19 +1,38 @@
-Questioning about the texture of reality, society and human nature can be seen as getting lost in space. 
+# Welcome to Community Logs!
 
-This blog is named after 1995's 3D Pinball: Space Cadet and Dead Space by Visceral Games.
+This place is open to people who want to express themselves with their unique style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
+Any idea can come to life on Community Logs following posting rules.
 
-So if as a human you feel terror of vastness and the unknown, don't worry, go with the flow.
+![concepts](https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg)
 
-Tilt hard the playground and stomp on space zombies. 
+Create a new file in `_posts` folder of [CommunityLogs/communitylogs.github.io](https://github.com/CommunityLogs/communitylogs.github.io) repository and 
+name it `YYYY-MM-DD-blog-post-name.md` where `YYYY` is current year, `MM` current month and `DD` current day, 
+don't use future dates because if so the post won't show, `blog-post-name` could be any name you want but every word must
+be separated by `-`.
 
-![](/images/dead-space.gif)
+---
 
-![](/images/3D_Pinball.png)
+New created file must start with:
+```
+---
+author: John Doe
+facebook_username: john.doe
+twitter_username: johndoe
+google_username: johndoe
+linkedin_username: johndoe
+instagram_username: johndoe
+github_username: johndoe
+tags: template-post 
+---
+```
+Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't proivde that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
 
-Space Cadet is also the name of a Kyuss piece that was in my mind as well when i tought of this blog.
+Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
-<video width="100%" height="auto" controls poster="https://img.youtube.com/vi/aW8nFgRwnoA/0.jpg">
-  <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
+## Creating blog post demo
+
+![vokoscreenNG-2023-03-02_20-48-19(2)](https://user-images.githubusercontent.com/126524087/222543371-3f6fd2a7-39bc-4ecc-aded-52b41c11bd94.gif)
+
+You can then find your posts at [https://communitylogs.github.io](https://communitylogs.github.io)
