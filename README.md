@@ -31,3 +31,8 @@ Posts are written in markdown, if you don’t know it, don’t worry, there’s 
 
 You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
+## Creating blog post demo
+
+![vokoscreenNG-2023-03-02_20-48-19(2)](https://user-images.githubusercontent.com/126524087/222543371-3f6fd2a7-39bc-4ecc-aded-52b41c11bd94.gif)
+
+You can then find your posts at [https://communitylogs.github.io](https://communitylogs.github.io)
