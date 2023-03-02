@@ -26,13 +26,13 @@ github_username: johndoe
 tags: template-post 
 ---
 ```
-Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't proivde that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
+Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
 
 Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
 You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
-## Creating blog post demo
+**Creating blog post demo**
 
 <video width="100%" height="auto" controls>
   <source src="https://user-images.githubusercontent.com/126524087/222552453-678b503a-f68f-471d-9623-9edb102605a5.mp4" type="video/mp4">
