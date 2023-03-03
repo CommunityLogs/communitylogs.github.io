@@ -1,3 +1,7 @@
+![Tiny content writers creating web articles](https://user-images.githubusercontent.com/103458862/222694107-86bc5ddf-7919-42a7-b398-f2f1880fbb4a.jpg)
+
+<a href="https://www.freepik.com/free-vector/tiny-content-writers-creating-web-articles-flat-illustration_13146666.htm#query=collaborative%20blogging&position=39&from_view=search&track=ais">Image by pch.vector</a> on Freepik
+
 # Welcome to Community Logs!
 
 This place is open to people who want to express themselves with their own style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
