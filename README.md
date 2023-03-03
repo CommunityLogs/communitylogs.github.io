@@ -26,11 +26,12 @@ twitter_username: johndoe
 google_username: johndoe
 linkedin_username: johndoe
 instagram_username: johndoe
-github_username: johndoe
+github_username: johndoe 
+image: https://user-images.githubusercontent.com/103458862/222838288-b2d963e2-8a96-4206-befb-debf134048e9.jpg
 tags: template-post 
 ---
 ```
-Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
+Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one tag with no spaces that describe your post. If you want you can replace `image` default url with an url pointing to an image of your choice. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
 
 Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
