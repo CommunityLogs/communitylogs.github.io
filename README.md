@@ -36,6 +36,8 @@ Posts are written in markdown, if you don’t know it, don’t worry, there’s 
 
 You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
+After you created your content you can click on commit to publish your post.
+
 ## Creating blog post demo
 
 https://user-images.githubusercontent.com/126524087/222552453-678b503a-f68f-471d-9623-9edb102605a5.mp4
