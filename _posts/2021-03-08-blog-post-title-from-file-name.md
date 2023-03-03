@@ -7,6 +7,7 @@ linkedin_username: johndoe
 instagram_username: johndoe
 github_username: johndoe
 tags: template-post 
+image: https://user-images.githubusercontent.com/103458862/222838288-b2d963e2-8a96-4206-befb-debf134048e9.jpg
 ---
 
 ## Blog Post Title From First Header
