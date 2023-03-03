@@ -8,7 +8,7 @@ This place is open to people who want to express themselves with their own style
 To get started you just need a github account and an invitation to collaborate on this repository, following this blog's posting rules any idea can come to life.
 
 <p align="center">
-  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg" />
+  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg" />
 </p>
 
 ## Create post file
