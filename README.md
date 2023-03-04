@@ -7,10 +7,10 @@
 # Welcome to Community Logs!
 
 This place is open to people who want to express themselves with their own style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
-To get started you just need a github account and an invitation to collaborate on this repository, following this blog's posting rules any idea can come to life.
+To get started you just need a github account and an invitation to collaborate on this repository, following this blog's posting rules any concept can come to life.
 
 <p align="center">
-  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg" />
+  <img style="border-radius: 25px" width="60%" height="auto" src="https://user-images.githubusercontent.com/103458862/222862201-0b4ed25d-7165-4ebd-bda5-1383878f1861.jpg" />
 </p>
 
 ## Create post file
