@@ -10,8 +10,9 @@ This place is open to people who want to express themselves with their own style
 To get started you just need a github account and an invitation to collaborate on this repository, following this blog's posting rules any concept can come to life.
 
 <p align="center">
-  <img style="border-radius: 25px" width="60%" height="auto" src="https://user-images.githubusercontent.com/103458862/222867619-04c50bbf-c5dd-4869-adf6-ae78ae860ffb.png" />
+  <img style="border-radius: 25px" width="60%" height="auto" src="https://user-images.githubusercontent.com/103458862/222868469-657332a1-e0eb-4563-b6c0-073092d1cac7.gif" />
 </p>
+
 
 ## Create post file
 
