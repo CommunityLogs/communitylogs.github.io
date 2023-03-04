@@ -1,4 +1,6 @@
-![Tiny content writers creating web articles](https://user-images.githubusercontent.com/103458862/222694107-86bc5ddf-7919-42a7-b398-f2f1880fbb4a.jpg)
+<p align="center">
+  <img style="border-radius: 25px" width="100%" height="auto" src="https://user-images.githubusercontent.com/103458862/222694107-86bc5ddf-7919-42a7-b398-f2f1880fbb4a.jpg" />
+</p>
 
 <a href="https://www.freepik.com/free-vector/tiny-content-writers-creating-web-articles-flat-illustration_13146666.htm#query=collaborative%20blogging&position=39&from_view=search&track=ais">Image by pch.vector</a> on Freepik
 
@@ -8,8 +10,9 @@ This place is open to people who want to express themselves with their own style
 To get started you just need a github account and an invitation to collaborate on this repository, following this blog's posting rules any idea can come to life.
 
 <p align="center">
-  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg" />
+  <img style="border-radius: 25px" width="60%" height="auto" src="https://user-images.githubusercontent.com/103458862/222862201-0b4ed25d-7165-4ebd-bda5-1383878f1861.jpg" />
 </p>
+
 
 ## Create post file
 
@@ -34,7 +37,7 @@ tags: template-post
 image: https://user-images.githubusercontent.com/103458862/222838288-b2d963e2-8a96-4206-befb-debf134048e9.jpg
 ---
 ```
-Replace `John Doe` with your name, and your social media `usernames`, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one `tag` with no spaces that describe your post. If you want you can replace `image` default url with an url pointing to an image of your choice. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
+Replace `John Doe` with your name, and your social media `usernames`, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one `tag` with no spaces that describe your post. You can replace `image` default url with an url pointing to another image that is going to be your link's thumbnail. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
 
 Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
